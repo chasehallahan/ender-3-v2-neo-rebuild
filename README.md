@@ -1,6 +1,6 @@
 # Ender 3 V2 Neo Rebuild
 
-SolidWorks rebuild of a heavily modified Creality Ender 3 V2 Neo.
+Progressively built SolidWorks model of a heavily modified Creality Ender 3 V2 Neo.
 
 The assembly is being organized as both a working design aid for the physical printer and a public portfolio-quality CAD project. The current top-level assembly is:
 
