@@ -1,0 +1,26 @@
+# Local agent and tool state
+.agents/
+.codex/
+
+# SolidWorks temporary/session files
+~$*
+*.swp
+*.swo
+*.tmp
+*.bak
+*.backup
+
+# SolidWorks autosave/recovery folders
+Backup/
+backup/
+AutoRecover/
+autorecover/
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+
+# Keep generated exports committed intentionally.
+# Do not add broad ignores for Exports/ unless release workflow changes.

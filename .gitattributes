@@ -1,0 +1,33 @@
+# SolidWorks source files
+*.SLDPRT filter=lfs diff=lfs merge=lfs -text
+*.SLDASM filter=lfs diff=lfs merge=lfs -text
+*.SLDDRW filter=lfs diff=lfs merge=lfs -text
+*.sldprt filter=lfs diff=lfs merge=lfs -text
+*.sldasm filter=lfs diff=lfs merge=lfs -text
+*.slddrw filter=lfs diff=lfs merge=lfs -text
+
+# CAD interchange and print outputs
+*.STEP filter=lfs diff=lfs merge=lfs -text
+*.STP filter=lfs diff=lfs merge=lfs -text
+*.IGS filter=lfs diff=lfs merge=lfs -text
+*.IGES filter=lfs diff=lfs merge=lfs -text
+*.X_T filter=lfs diff=lfs merge=lfs -text
+*.STL filter=lfs diff=lfs merge=lfs -text
+*.3MF filter=lfs diff=lfs merge=lfs -text
+*.step filter=lfs diff=lfs merge=lfs -text
+*.stp filter=lfs diff=lfs merge=lfs -text
+*.igs filter=lfs diff=lfs merge=lfs -text
+*.iges filter=lfs diff=lfs merge=lfs -text
+*.x_t filter=lfs diff=lfs merge=lfs -text
+*.stl filter=lfs diff=lfs merge=lfs -text
+*.3mf filter=lfs diff=lfs merge=lfs -text
+
+# Binary preview/reference assets
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+
+# Text files
+*.md text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
